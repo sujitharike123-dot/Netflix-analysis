@@ -1,0 +1,6 @@
+# the raw Kaggle file is not committed; download it yourself (see README)
+data/raw/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

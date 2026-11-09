@@ -1,0 +1,219 @@
+{
+  "data": {
+    "titles": 6234,
+    "movies": 4265,
+    "tv_shows": 1969,
+    "movie_share_pct": 68.4,
+    "last_date_added": "2020-01-18",
+    "titles_added_in_partial_2020": 184
+  },
+  "titles_added": {
+    "2012": 7,
+    "2013": 12,
+    "2014": 25,
+    "2015": 90,
+    "2016": 456,
+    "2017": 1300,
+    "2018": 1782,
+    "2019": 2349
+  },
+  "tv_share_pct_by_year": {
+    "2012": 42.9,
+    "2013": 50.0,
+    "2014": 24.0,
+    "2015": 35.6,
+    "2016": 42.1,
+    "2017": 29.8,
+    "2018": 27.6,
+    "2019": 34.2
+  },
+  "growth_2016_to_2019_x": 5.2,
+  "top_countries": [
+    {
+      "country": "United States",
+      "titles": 2610,
+      "pct_of_titles_with_country": 45.3
+    },
+    {
+      "country": "India",
+      "titles": 838,
+      "pct_of_titles_with_country": 14.6
+    },
+    {
+      "country": "United Kingdom",
+      "titles": 602,
+      "pct_of_titles_with_country": 10.5
+    },
+    {
+      "country": "Canada",
+      "titles": 318,
+      "pct_of_titles_with_country": 5.5
+    },
+    {
+      "country": "France",
+      "titles": 271,
+      "pct_of_titles_with_country": 4.7
+    }
+  ],
+  "country_share": {
+    "2015": {
+      "united_states_pct": 54.5,
+      "india_pct": 0.0,
+      "united_kingdom_pct": 8.9,
+      "rest_of_world_pct": 36.6
+    },
+    "2016": {
+      "united_states_pct": 37.3,
+      "india_pct": 2.6,
+      "united_kingdom_pct": 9.5,
+      "rest_of_world_pct": 50.6
+    },
+    "2017": {
+      "united_states_pct": 31.8,
+      "india_pct": 13.2,
+      "united_kingdom_pct": 9.2,
+      "rest_of_world_pct": 45.8
+    },
+    "2018": {
+      "united_states_pct": 31.3,
+      "india_pct": 17.7,
+      "united_kingdom_pct": 7.7,
+      "rest_of_world_pct": 43.3
+    },
+    "2019": {
+      "united_states_pct": 39.4,
+      "india_pct": 9.6,
+      "united_kingdom_pct": 8.1,
+      "rest_of_world_pct": 42.9
+    }
+  },
+  "mature_pct_by_year": {
+    "2015": 24.4,
+    "2016": 27.4,
+    "2017": 38.8,
+    "2018": 44.0,
+    "2019": 42.8
+  },
+  "rating_mix": [
+    {
+      "type": "Movie",
+      "rating_group": "Mature",
+      "titles": 1856,
+      "share_of_type_pct": 43.5
+    },
+    {
+      "type": "Movie",
+      "rating_group": "Teen",
+      "titles": 1324,
+      "share_of_type_pct": 31.0
+    },
+    {
+      "type": "Movie",
+      "rating_group": "Family",
+      "titles": 731,
+      "share_of_type_pct": 17.1
+    },
+    {
+      "type": "Movie",
+      "rating_group": "Unrated",
+      "titles": 217,
+      "share_of_type_pct": 5.1
+    },
+    {
+      "type": "Movie",
+      "rating_group": "Kids",
+      "titles": 137,
+      "share_of_type_pct": 3.2
+    },
+    {
+      "type": "TV Show",
+      "rating_group": "Mature",
+      "titles": 681,
+      "share_of_type_pct": 34.6
+    },
+    {
+      "type": "TV Show",
+      "rating_group": "Teen",
+      "titles": 660,
+      "share_of_type_pct": 33.5
+    },
+    {
+      "type": "TV Show",
+      "rating_group": "Family",
+      "titles": 340,
+      "share_of_type_pct": 17.3
+    },
+    {
+      "type": "TV Show",
+      "rating_group": "Kids",
+      "titles": 270,
+      "share_of_type_pct": 13.7
+    },
+    {
+      "type": "TV Show",
+      "rating_group": "Unrated",
+      "titles": 18,
+      "share_of_type_pct": 0.9
+    }
+  ],
+  "avg_movie_minutes": {
+    "1960": 146.3,
+    "1970": 112.6,
+    "1980": 110.3,
+    "1990": 111.2,
+    "2000": 112.0,
+    "2010": 96.0,
+    "2020": 103.5
+  },
+  "stand_up": {
+    "movies": 281,
+    "avg_minutes": 67.3,
+    "avg_minutes_2010s_excl_stand_up": 98.3,
+    "avg_minutes_2000s_excl_stand_up": 113.0,
+    "top5_directors": [
+      "Jan Suter",
+      "Ra\u00fal Campos",
+      "Jay Karas",
+      "Marcus Raboy",
+      "Jay Chapman"
+    ],
+    "top5_directors_titles": 61,
+    "top5_directors_stand_up_titles": 61
+  },
+  "tv_one_season_pct": 67.1,
+  "tv_5plus_seasons": 125,
+  "added_within_1yr_pct": {
+    "2015": 81.1,
+    "2016": 65.1,
+    "2017": 57.5,
+    "2018": 55.4,
+    "2019": 53.5
+  },
+  "busiest_months_2016_2019": [
+    {
+      "month": 12.0,
+      "share_pct": 11.3
+    },
+    {
+      "month": 10.0,
+      "share_pct": 10.4
+    },
+    {
+      "month": 11.0,
+      "share_pct": 10.2
+    }
+  ],
+  "quietest_month_2016_2019": [
+    {
+      "month": 2.0,
+      "share_pct": 6.3
+    }
+  ],
+  "missing_pct": {
+    "director": 31.6,
+    "cast": 9.1,
+    "country": 7.6,
+    "date_added": 0.2,
+    "rating": 0.2
+  }
+}

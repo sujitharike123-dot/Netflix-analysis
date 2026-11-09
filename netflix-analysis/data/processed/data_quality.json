@@ -1,0 +1,36 @@
+{
+  "rows": 6234,
+  "columns": 12,
+  "duplicate_show_ids": 0,
+  "missing_by_column": {
+    "director": 1969,
+    "cast": 570,
+    "country": 476,
+    "date_added": 11,
+    "rating": 10
+  },
+  "missing_pct_by_column": {
+    "director": 31.6,
+    "cast": 9.1,
+    "country": 7.6,
+    "date_added": 0.2,
+    "rating": 0.2
+  },
+  "repeated_title_type_year_pairs": 3,
+  "date_added_with_stray_spaces": 640,
+  "last_date_added": "2020-01-18",
+  "missing_rating_set_to_unrated": 10,
+  "added_before_release_year": 9,
+  "empty_country_entries_dropped": 3,
+  "distinct_countries": 110,
+  "raw_genre_labels": 42,
+  "genre_families": 23,
+  "distinct_directors": 3655,
+  "movies": 4265,
+  "tv_shows": 1969,
+  "added_in_partial_year_2020": 184,
+  "release_year_range": [
+    1925,
+    2020
+  ]
+}
